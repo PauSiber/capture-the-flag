@@ -1,0 +1,22 @@
+# ASCII DECODE
+
+## Görev Açıklaması
+
+Bu görevde, verilen hex formatındaki bir string üzerinde işlem yaparak doğru flag’i bulmanız gerekmektedir. String, bir şekilde şifrelenmiş veya kodlanmış olabilir ve doğru çözümü bulmak için çeşitli teknikleri kullanmanız gerekebilir.
+
+**Verilen**:
+
+- Hex formatında bir string (örnek: 68656c6c6f20776f726c64)
+
+**Hedef**:
+
+- Hex string’i çözerek flag’i elde edin.
+
+**Şifreli Metin**
+
+```
+0x50 0x41 0x55 0x53 0x31 0x42 0x33 0x52 0x5f 0x43 0x54 0x46 0x7b 0x64 0x6f 0x6e 0x74 0x5f 0x65 0x78 0x70 0x6f 0x73 0x65 0x5f 0x6d 0x65 0x5f 0x70 0x6c 0x73 0x7d
+```
+
+**Zorluk**:
+- 2/10
