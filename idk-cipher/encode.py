@@ -13,8 +13,6 @@ if len(usr_input) <= 1:
     raise ValueError("PT must be greater than 1")
 if len(usr_input) % 2 != 0:
     raise ValueError("PT can only be an even number")
-if not usr_input.isalnum():
-    raise ValueError("Only alphabets and numbers supported")
 # WARNING: Reversing input might expose sensitive information.
 rsv_input = usr_input[::-1]
 output_arr = []
