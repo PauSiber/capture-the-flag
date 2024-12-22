@@ -18,6 +18,10 @@ Bu görevde, şifrelenmiş bir metin verilmektedir. Göreviniz, bu şifreyi çö
 Iw5RMTYRVuKDnlQ1NgxY4oOHNzom4oOVMAAxFyXig48JBBfig4k=
 ```
 
+## İpucu
+
+Normalde kodlar yukardan aşağı şekilde çalışıyor, peki terslemek için aşağıdan yukarıya doğru düşünüp yazsak ?
+
 **Zorluk**:
 - 5/10
 
